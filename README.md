@@ -10,4 +10,4 @@ File mnist_model.yml keeps the saved network architecture in format yml.
 File mnist_model.h5 stores data about network weights.
 File Model.py designed to load the network and work with it through the terminal.
 
-Terminal command ```python3 Model.py "name_file_image"```
+Terminal command ```python3 Model.py "name_file_image.jpg"```
