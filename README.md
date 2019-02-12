@@ -1,4 +1,4 @@
-# -Numbers_recognition
+# Numbers_recognition
 
 This neural network allows recognition of Roman numerals with 97% accuracy on training data and 75% on training data.
 
